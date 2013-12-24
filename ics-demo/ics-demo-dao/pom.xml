@@ -9,9 +9,8 @@
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
-	<artifactId>ics-demo-web</artifactId>
-	<packaging>war</packaging>
-	<name>ics-demo-web Maven Webapp</name>
+	<artifactId>ics-demo-dao</artifactId>
+	<name>ics-demo-dao</name>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
@@ -19,7 +18,4 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-	<build>
-		<finalName>ics-demo-web</finalName>
-	</build>
 </project>
